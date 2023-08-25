@@ -1,7 +1,7 @@
 # Food delivery site on vue2 and vuex
 
 ![SPA Vue2](src/assets/images/screenshot.png "SPA Vue2")
-[Watch here](https://turdiev.github.io/burgers-shop/)
+[Watch here](https://vikdimarks.github.io/burgers-shop/)
 
 ## Tools
 
